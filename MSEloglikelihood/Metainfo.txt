@@ -1,0 +1,13 @@
+Name of QuantLet: MSEloglikelihood 
+
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+
+Description: 'Creates plots and scatterplots of densities and LLR for two different parameters theta.'
+
+Keywords: density, eigenvalue-decomposition, graphical representation, kernel, log-likelihood, scatterplot, visualization
+
+Author: Maria Osipenko, Lukas Borke
+
+Submitted: Thu, March 05 2015 by Lukas Borke
+
+Example: Plots and scatterplots for two different parameters theta.

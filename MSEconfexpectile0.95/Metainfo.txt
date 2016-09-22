@@ -1,0 +1,15 @@
+Name of QuantLet: MSEconfexpectile0.95
+
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+
+Description: 'Constructs the confidence bands for an expectile curve with a confidence level of 0.95.'
+
+Keywords: 'confidence-interval, expectile, quantile, regression, plot, visualization'
+
+See also: 'SPMfesdensities, SPMkernel, SPMkernelregression, TERES_ExpectileQuantileDiff, TERES_ExpectileQuantileDiffMulti, TXTSimulation, TXTSimulationAttention, TXTSimulationBS'
+
+Author: Mengmeng Guo, Maria Osipenko
+
+Submitted: Thu, January 16 2014 by Maria Osipenko
+
+Example: 'The estimated and the true expectile curve with 95% confidence bands.'

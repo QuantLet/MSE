@@ -1,0 +1,13 @@
+Name of QuantLet: MSEdecon
+
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+
+Description: 'Plots the deconvoluted kernel regression curve, the kernel regression curve from the sample without measurement errors (i.e. kernel regression based on x) and the kernel regression curve from the sample with measurement errors (i.e. kernel regression based on z).'
+
+Keywords: plot, kernel, regression, curve, error
+
+Author: Weining Wang, Lining Yu
+
+Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
+
+Example: 'The kernel regression curve from the sample without measurement errors (solid  line), the deconvoluted kernel regression curve (dashed line), and the regression curve from the sample with measurement errors (dotted line), for n=300.'

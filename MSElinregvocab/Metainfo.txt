@@ -1,0 +1,13 @@
+Name of QuantLet: MSElinregvocab
+
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+
+Description: 'Computes a linear regression in a model that explains the vocabulary score in a grade by using the vocabulary scores of the two previous grades (vocabulary.rda).'
+
+Keywords: 'regression, linear-regression, estimation, R-squared, F-statistic'
+
+Author: Shih-Kang Chao
+
+Submitted: Fri, May 03 2013 by Franziska Schulz
+
+Datafile: vocabulary.rda

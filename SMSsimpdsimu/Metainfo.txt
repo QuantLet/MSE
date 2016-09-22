@@ -1,0 +1,15 @@
+Name oF QuantLet: SMSsimpdsimu 
+
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+
+Description: 'Calculates and plots the simplicial depth of a simulated data set.'
+
+Keywords: 'simplicial-depth, plot, visualization, simulation, estimation'
+
+See also: SMSdisfbank2, SMSsimpdbank, SMSsvmorange
+
+Author: Awdesch Melzer
+
+Submitted: Tue, March 12 2013 by Maria Osipenko
+
+Example: 'Plot of the simplicial depth in the simulated data set'

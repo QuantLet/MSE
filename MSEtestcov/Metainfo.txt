@@ -1,0 +1,11 @@
+Name of QuantLet: MSEtestcov 
+
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+
+Description: 'Tests the hypothesis of the equality of the covariance matrices on two simulated 4-dimensional samples of sizes n1=30 and n2=20.'
+
+Keywords: 'Testing, covariance, covariance-matrix, likelihood-ratio-test, simulation'
+
+Author: Shih-Kang Chao
+
+Submitted: Fri, May 03 2013 by Franziska Schulz

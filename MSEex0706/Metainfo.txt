@@ -1,0 +1,13 @@
+Name of QuantLet: MSEex0706
+
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+
+Description: 'Plots and illustrates the spectral model and the linear model in this exercise.'
+
+Keywords: 'estimation, spectral, linear, model, linear-model, plot, visualization'
+
+Author: Vladimir Spokoiny, Vladimir Panov, Weining Wang
+
+Submitted: Tue, November 13 2012 by Dedy Dwi Prastyo
+
+Example: Shows the model over time

@@ -1,0 +1,11 @@
+Name of QuantLet: MSEfMRI
+
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+
+Description: 'Estimates the risk aversion parameter based on the data given in the table and using a logit model.'
+
+Keywords: 'binomial, logit, model, regression, risk aversion, parameter'
+
+Author: Shih-Kang Chao
+
+Submitted: Fri, May 03 2013 by Franziska Schulz
