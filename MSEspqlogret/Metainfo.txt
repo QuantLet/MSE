@@ -1,0 +1,15 @@
+Name of QuantLet: MSEspqlogret
+
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
+
+Description: 'Plots quarterly S&P 500 index log-returns for data from Q2 1980 to Q2 2012.'
+
+Keywords: plot, data visualization, time-series, financial, log-returns
+
+Author: Wolfgang K. Haerdle, Weining Wang, Shih Kang Chao
+
+Submitted: Thu, November 15 2012 by Dedy Dwi Prastyo
+
+Datafile: spq.txt
+
+Example: 'Plot of S&P 500 index quartlery log-returns during the period Q2 1980 - Q2 2012.'

@@ -1,0 +1,11 @@
+Name of QuantLet: autocorr
+
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
+
+Description: 'Computes or plots the sample auto-correlation function (ACF) of a univariate, stochastic time series. When called with no output arguments, AUTOCORR displays the ACF sequence with confidence bounds.'
+
+Keywords: plot, autocorrelation, univariate, stochastic, time-series
+
+Author: Wolfgang K. Haerdle, Weining Wang, Shih Kang Chao
+
+Submitted: Wed, November 03 2010 by Maria Osipenko

@@ -1,0 +1,14 @@
+Name of QuantLet: MSEregression
+
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
+
+Description: 'Generates n = 300 samples, then performs linear regressions in the error in design model.'
+
+Keywords: plot, regression, linear-regression, error, model
+
+Author: Weining Wang, Lining Yu
+
+Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
+
+Example: 'The linear regression line of Yi and Zi (solid line) and the linear regression line of Yi on Phii (dashed line), for n=300.'
+

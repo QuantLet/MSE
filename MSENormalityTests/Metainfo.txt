@@ -1,0 +1,21 @@
+Name of QuantLet: MSENormalityTests
+
+
+
+Published in: 'Modern Mathematical Statistics: Exercise and Solution'
+
+Description: 'Plots the time series of the DAX30 index from 2009-12-21 to 2011-12-22'
+
+
+
+Keywords: plot, time-series, dax, index, visualization
+
+Author: Shih-Kang Chao
+
+
+
+Submitted: Tue, November 13 2012 by Dedy Dwi Prastyo
+
+
+
+Example: 'Plots the time series of the DAX from 2009-12-21 to 2011-12-22'

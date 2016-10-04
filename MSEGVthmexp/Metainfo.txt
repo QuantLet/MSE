@@ -1,0 +1,33 @@
+﻿Name of QuantLet: MSEGCthmexp
+
+
+
+Published in:  'Modern Mathematical Statistics: Exercise and Solution'
+
+Description: 'Draws n observations from exponential(1)
+distribution and plots its empirical distribution function
+(edf) vs. the exponential cumulative distribution function
+(cdf). Number of draws can be entered interactively. The point where
+the edf and cdf differs most is also reported.'
+
+
+
+Keywords: plot, cdf, edf, empirical, distribution, distance, exponential
+
+
+
+
+Author: Wolfgang Härdle, Shih-Kang Chao
+
+
+
+Submitted: Mon, November 05 2012 by Dedy Dwi Prastyo
+
+
+
+Example: '1. Draws n=100 observations from exponential distribution
+and plots its empirical distribution function (edf) vs. the
+theoretical exponential cumulative distribution function (cdf).
+2.  The point where the edf and cdf differs most is also reported.'
+
+Inputs: n - number of observations

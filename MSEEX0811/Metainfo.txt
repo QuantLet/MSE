@@ -1,0 +1,29 @@
+﻿Name of QuantLet: MSEEX0711
+
+
+
+Published in: 'Modern Mathematical Statistics: Exercise and Solution'
+
+
+
+Description: 'Illustrates the proof of an alpha-level LR test. Output is a plot.'
+
+
+
+Keywords: 'parameter, likelihood-ratio-test, likelihood ratio, likelihood, testing, test, plot'
+
+
+
+See also:
+
+
+
+Author: Wolfgang Karl Härdle, Vladimir Panov, Ye Hua
+
+
+
+Submitted:
+
+ Wed, June 29 2011 by Maria Osipenko
+
+Example: 'Illustrates the proof of an alpha-level LR test.'

@@ -1,0 +1,23 @@
+Name of QuantLet: MSEKolmogorov-Smirnovtest
+
+
+
+Published in: 'Modern Mathematical Statistics: Exercise and Solution'
+
+
+
+Description: 'Performs a Kolmogorov-Smirnov test on the DAX log return data from 2009-12-21 to 2011-12-22'
+
+
+
+Keywords: Kolmogorov-Smirnov test, testing, test, normal-distribution, normal, normality test
+
+Author: Shih-Kang Chao
+
+
+
+Submitted: Tue, November 13 2012 by Dedy Dwi Prastyo
+
+
+
+Example: 'Performes a Kolmogorov-Smirnov normality test on DAX log returns from 2009-12-21 to 2011-12-22 based on 500 simulations of the standard normal distribution. Test results indicate rejection of the normality hypothesis at 1 percent significance level'

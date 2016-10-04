@@ -1,0 +1,19 @@
+﻿Name of QuantLet: MSEanovapull
+
+
+
+Published in: 'Modern Mathematical Statistics: Exercise and Solution'
+
+
+
+Description: 'Estimates a linear model (ANOVA). The plot presents results of the estimation of a linear model'
+
+
+Keywords: linear-regression, linear-model, regression, linear, anova, estimation, variance
+
+
+Author: Wolfgang Karl Härdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
+
+
+
+Example: 'Presents results of the estimation of a linear model'

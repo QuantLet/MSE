@@ -1,0 +1,13 @@
+Name of QuantLet: MSEfcauchy
+
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
+
+Description: 'Plots the critical region of the Neyman-Pearson test within a specific interval if p is a density of the standard Cauchy distribution.'
+
+Keywords: plot, Cauchy distribution, distribution, function, visualization 
+
+Author: Wolfgang K. Haerdle, Weining Wang, Shih Kang Chao
+
+Submitted: Mon, September 27 2010 by Maria Osipenko
+
+Example: 'Plots y = f(x) where x1 and x2 (x1 < x2) are two solutions of the quadratic equation.'
