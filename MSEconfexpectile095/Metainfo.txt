@@ -1,4 +1,4 @@
-Name of QuantLet: MSEconfexpectile0.95
+Name of QuantLet: MSEconfexpectile095
 
 Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 
