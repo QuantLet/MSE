@@ -6,7 +6,7 @@ Description: 'Creates plots and scatterplots of densities and LLR for two differ
 
 Keywords: density, eigenvalue-decomposition, graphical representation, kernel, log-likelihood, scatterplot, visualization
 
-Author: Maria Osipenko, Lukas Borke
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Thu, March 05 2015 by Lukas Borke
 

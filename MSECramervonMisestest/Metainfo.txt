@@ -12,8 +12,7 @@ Keywords: Cramer von Mises test, Testing, test, normal-distribution, normal, nor
 
 
 
-
-Author: Shih-Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 
 

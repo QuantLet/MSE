@@ -12,7 +12,7 @@ Description: 'Performs a Kolmogorov-Smirnov test on the DAX log return data from
 
 Keywords: Kolmogorov-Smirnov test, testing, test, normal-distribution, normal, normality test
 
-Author: Shih-Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 
 

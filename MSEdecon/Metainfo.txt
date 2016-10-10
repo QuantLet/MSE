@@ -6,7 +6,7 @@ Description: 'Plots the deconvoluted kernel regression curve, the kernel regress
 
 Keywords: plot, kernel, regression, curve, error
 
-Author: Weining Wang, Lining Yu
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
 

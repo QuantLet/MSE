@@ -6,7 +6,7 @@ Description: 'Plots the scores with respect to probability of default and respon
 
 Keywords: plot, logit, regression, factor scores, probability
 
-Author: Wolfgang K. Haerdle, Weining Wang, Shih Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Mon, October 04 2010 by Maria Osipenko
 

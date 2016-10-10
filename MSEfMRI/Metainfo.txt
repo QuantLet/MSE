@@ -6,6 +6,6 @@ Description: 'Estimates the risk aversion parameter based on the data given in t
 
 Keywords: 'binomial, logit, model, regression, risk aversion, parameter'
 
-Author: Shih-Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Fri, May 03 2013 by Franziska Schulz

@@ -8,7 +8,7 @@ Keywords: 'simplicial-depth, plot, visualization, simulation, estimation'
 
 See also: SMSdisfbank2, SMSsimpdbank, SMSsvmorange
 
-Author: Awdesch Melzer
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Tue, March 12 2013 by Maria Osipenko
 

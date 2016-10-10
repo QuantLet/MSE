@@ -6,7 +6,7 @@ Description: 'Draws n observations from a standard normal distribution and plots
 
 Keywords: 'approximation, cdf, distribution, edf, empirical, normal-distribution, standard-normal'
 
-Author: Wolfgang K. Haerdle, Lukas Borke
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Wed, March 04 2015 by Lukas Borke
 

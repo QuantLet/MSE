@@ -12,7 +12,7 @@ Description: 'Estimates a linear model (ANOVA). The plot presents results of the
 Keywords: linear-regression, linear-model, regression, linear, anova, estimation, variance
 
 
-Author: Wolfgang Karl Härdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 
 

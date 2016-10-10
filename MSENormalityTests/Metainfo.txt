@@ -10,7 +10,7 @@ Description: 'Plots the time series of the DAX30 index from 2009-12-21 to 2011-1
 
 Keywords: plot, time-series, dax, index, visualization
 
-Author: Shih-Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 
 

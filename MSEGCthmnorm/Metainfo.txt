@@ -1,10 +1,6 @@
 ﻿Name of QuantLet: MSEGCthmnorm
 
-
-
 Published in: 'Modern Mathematical Statistics: Exercise and Solution'
-
-
 
 Description: 'Draws n observations from standard normal 
 distribution and plots its empirical distribution function
@@ -12,27 +8,15 @@ distribution and plots its empirical distribution function
 (cdf). Number of draws can be entered interactively. The point where
 the edf and cdf differs most is also reported.'
 
+Keywords: 'plot, cdf, edf, empirical, distribution, distance, normal, normal-distribution, random, gaussian'
 
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
-Keywords: 'plot, cdf, edf, empirical, distribution, distance, normal, normal-distribution, random, gaussian
-
-'
-
-See also: 
-
-Author: Wolfgang Härdle, Shih-Kang Chao
-
-
-
-Submitted:
-
- Mon, November 05 2012 by Dedy Dwi Prastyo
+Submitted: Mon, November 05 2012 by Dedy Dwi Prastyo
 
 Example: '1. Draws n=100 observations from standard normal distribution
 and plots its empirical distribution function (edf) vs. the
 normal cumulative distribution function (cdf).
  2.  The point where the edf and cdf differs most is also reported.'
-
-
 
 Inputs: n - number of observations

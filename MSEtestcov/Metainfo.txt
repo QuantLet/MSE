@@ -6,6 +6,6 @@ Description: 'Tests the hypothesis of the equality of the covariance matrices on
 
 Keywords: 'Testing, covariance, covariance-matrix, likelihood-ratio-test, simulation'
 
-Author: Shih-Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Fri, May 03 2013 by Franziska Schulz

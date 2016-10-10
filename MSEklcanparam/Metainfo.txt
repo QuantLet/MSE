@@ -6,7 +6,7 @@ Description: 'Draws a plot of the Kullback-Leibler function for a canonical para
 
 Keywords: plot, Kullback-Leibler, function, canonical-parameter, parameter
 
-Author: Wolfgang K. Haerdle, Weining Wang, Shih Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Mon, September 27 2010 by Maria Osipenko
 

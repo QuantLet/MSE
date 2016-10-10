@@ -6,7 +6,7 @@ Description: 'Generates an n=300 t(3) distributed random sample, and draws the k
 
 Keywords: plot, kernel, density, nonparametric, nonparametric estimation
 
-Author: Weining Wang, Lining Yu
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
 

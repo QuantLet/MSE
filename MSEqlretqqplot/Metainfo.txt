@@ -6,7 +6,7 @@ Description: 'Plots quarterly S&P log-returns for data from Q2 1980 to Q2 2012 t
 
 Keywords: qq-plot, plot, visualization, financial, distribution, normal
 
-Author: Wolfgang K. Haerdle, Weining Wang, Shih Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Thu, November 15 2012 by Dedy Dwi Prastyo
 

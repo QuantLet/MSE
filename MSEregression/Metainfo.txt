@@ -6,7 +6,7 @@ Description: 'Generates n = 300 samples, then performs linear regressions in the
 
 Keywords: plot, regression, linear-regression, error, model
 
-Author: Weining Wang, Lining Yu
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
 

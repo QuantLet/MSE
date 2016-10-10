@@ -6,7 +6,7 @@ Description: 'Plots the significance levels in context with n from n=1 to n=200.
 
 Keywords: asymptotic chisquare test, f-test, plot, visualization, estimation
 
-Author: Wolfgang K. Haerdle, Weining Wang, Shih Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Wed, August 03 2011 by Dedy Dwi Prastyo
 

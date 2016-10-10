@@ -15,7 +15,7 @@ Keywords: jarque-bera-test, Testing, test, normal-distribution, normal, normalit
 
 
 
-Author: Shih-Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 
 

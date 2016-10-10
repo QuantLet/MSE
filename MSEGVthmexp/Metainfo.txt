@@ -17,7 +17,7 @@ Keywords: plot, cdf, edf, empirical, distribution, distance, exponential
 
 
 
-Author: Wolfgang Härdle, Shih-Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 
 

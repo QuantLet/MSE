@@ -8,7 +8,7 @@ Keywords: 'confidence-interval, expectile, quantile, regression, plot, visualiza
 
 See also: 'SPMfesdensities, SPMkernel, SPMkernelregression, TERES_ExpectileQuantileDiff, TERES_ExpectileQuantileDiffMulti, TXTSimulation, TXTSimulationAttention, TXTSimulationBS'
 
-Author: Mengmeng Guo, Maria Osipenko
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Thu, January 16 2014 by Maria Osipenko
 

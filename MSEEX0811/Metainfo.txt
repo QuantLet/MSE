@@ -18,7 +18,7 @@ See also:
 
 
 
-Author: Wolfgang Karl Härdle, Vladimir Panov, Ye Hua
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 
 

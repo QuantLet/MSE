@@ -6,7 +6,7 @@ Description: 'Plots and illustrates the spectral model and the linear model in t
 
 Keywords: 'estimation, spectral, linear, model, linear-model, plot, visualization'
 
-Author: Vladimir Spokoiny, Vladimir Panov, Weining Wang
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Tue, November 13 2012 by Dedy Dwi Prastyo
 

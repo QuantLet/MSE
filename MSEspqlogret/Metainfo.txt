@@ -6,7 +6,7 @@ Description: 'Plots quarterly S&P 500 index log-returns for data from Q2 1980 to
 
 Keywords: plot, data visualization, time-series, financial, log-returns
 
-Author: Wolfgang K. Haerdle, Weining Wang, Shih Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Thu, November 15 2012 by Dedy Dwi Prastyo
 

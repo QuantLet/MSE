@@ -6,7 +6,7 @@ Description: 'Computes a linear regression in a model that explains the vocabula
 
 Keywords: 'regression, linear-regression, estimation, R-squared, F-statistic'
 
-Author: Shih-Kang Chao
+Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Fri, May 03 2013 by Franziska Schulz
 
