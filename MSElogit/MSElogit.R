@@ -48,4 +48,4 @@ win.graph()
 plot(scores, y, xlab = "scores", ylab = "Y", pch = 16, col = "red", cex.lab = 1.5, cex.axis = 1.5)
 par(new = TRUE)
 plot(sort(scores), sort(s11$fitted.values), xlab = "scores", ylab = "Y", ylim = c(0, 1), pch = 16, col = "blue", cex.lab = 1.5, 
-    cex.axis = 1.5, "l", lw = "4") 
+    cex.axis = 1.5, "l") 
