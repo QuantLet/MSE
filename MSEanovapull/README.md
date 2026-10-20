@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of QuantLet: MSEanovapull
-
 Published in: Modern Mathematical Statistics: Exercise and Solution
 
 Description: Estimates a linear model (ANOVA). The plot presents results of the estimation of a linear model
