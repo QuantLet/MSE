@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of QuantLet: MSEEX0811
-
 Published in: Modern Mathematical Statistics: Exercise and Solution
 
 Description: Illustrates the proof of an alpha-level LR test. Output is a plot.
@@ -17,7 +15,7 @@ See also:
 
 Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
-Submitted: 
+Submitted: Wed, June 29 2011 by Maria Osipenko
 
 Example: Illustrates the proof of an alpha-level LR test.
 
