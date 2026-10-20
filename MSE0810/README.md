@@ -5,11 +5,9 @@
 </div>
 
 ```
-﻿Name of QuantLet: MSEEX0810
-
 Published in: Modern Mathematical Statistics: Exercises and Solutions
 
-Description: Illustrates the proof of increasing monotonicity of a probability
+Description: Illustrates the proof of increasing monotonicity of a probability function on positive real numbers for a volatility model with natural parameter theta.
 
 Keywords: parameter, chi-sqaure, variance, model, plot
 
