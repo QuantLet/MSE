@@ -17,7 +17,7 @@ Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
 Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
 
-Output: 1. Draws n_1 observations from t(3) distribution and plots the kernel density curve of the estimated kernel density function using a Gaussian kernel.
+Output: 1. Draws n_1 observations from t(3) distribution and plots the kernel density curve of the estimated kernel density function using a Gaussian kernel. 2. generates n observations from t(3) distribution and plots the expectation of the kernel density function under the true density which is t(3) distribution. 3. generates n observations from normal distribution with mean and standard deviation from the generated sample, plots the expectation of the kernel density function under the true density which is normal distribution with mean and standard deviation from the generated sample.
 
 Example: The kernel density estimator ^fh(x) (solid line), ^g(x) with f0=t(3) (dashed line), and ^g(x) with f0=N(^mu, ^sigma^2), for n=300.
 
