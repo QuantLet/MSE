@@ -15,7 +15,7 @@ Keywords: Cramer von Mises test, Testing, test, normal-distribution, normal, nor
 
 Author: Wolfgang Karl Haerdle, Vladimir Panov, Vladimir Spokoiny, Weining Wang
 
-Submitted: 
+Submitted: Tue, November 13 2012 by Dedy Dwi Prastyo
 
 Example: Performes a Cramer von Mises normality test on DAX log return data from 2009-12-21 to 2011-12-22. Test results reject normality at any common significance level
 
